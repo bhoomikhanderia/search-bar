@@ -1,0 +1,17 @@
+{
+  // Extend your main tsconfig to inherit everything else
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    // Overwrite problematic settings:
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react-jsx" // or "preserve", but "react-jsx" is often safer for testing
+  },
+  "include": [
+    // Include your test files
+    "src/**/*.test.ts",
+    "src/**/*.test.tsx",
+    "src/**/*.spec.ts",
+    "src/**/*.spec.tsx"
+  ]
+}
