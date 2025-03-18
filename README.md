@@ -9,8 +9,12 @@ The solution consists of
 - Utilizes debouncing for API interactions
 - Includes necessary tests
 
-More information on the problem statement can be found in the React_CC.pdf.
+More information on the problem statement can be found in the React_CC.pdf (https://github.com/bhoomikhanderia/search-bar/blob/master/docs/React_CC.pdf).
 
+# Product Carousal Tests
+Problem statement link: https://github.com/bhoomikhanderia/search-bar/blob/master/docs/React_CC.pdf
+
+More details on the task can be found here: https://github.com/bhoomikhanderia/search-bar/blob/master/docs/Tests-carousal.md
 
 ## Getting Started
 
